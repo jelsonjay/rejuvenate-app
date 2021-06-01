@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>86C944CB-019C-4986-8687-213F0BDB4BD0</title>
+    <defs>
+        <filter x="-30.0%" y="-30.0%" width="160.0%" height="160.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Pages" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home" transform="translate(-1055.000000, -34.000000)">
+            <g id="Group-3" transform="translate(981.000000, 24.000000)">
+                <g id="Avatar/Icon" filter="url(#filter-1)" transform="translate(64.000000, 0.000000)">
+                    <g id="Icon/Search" transform="translate(10.000000, 10.000000)">
+                        <polygon id="24pt-Bounding-Box" opacity="0" fill-rule="nonzero" points="0 0 20 0 20 20 0 20"></polygon>
+                        <path d="M17.2583333,16.075 L14.425,13.25 L14.4249999,13.2500001 C15.3391499,12.0853751 15.8351749,10.6472167 15.8333333,9.16666674 L15.8333333,9.16666674 C15.8333333,5.48476674 12.8485666,2.50000007 9.16666661,2.50000007 C5.48476661,2.50000007 2.49999994,5.48476674 2.49999994,9.16666674 C2.49999994,12.8485667 5.48476661,15.8333334 9.16666661,15.8333334 L9.16666695,15.8333334 C10.6472169,15.8351745 12.0853753,15.3391534 13.2500003,14.4250001 L16.0750003,17.2583334 L16.0750003,17.2583334 C16.3991003,17.5851017 16.9267336,17.587265 17.2535003,17.2631654 C17.2551175,17.2615613 17.2567282,17.2599507 17.2583322,17.2583334 L17.2583322,17.2583334 C17.5851006,16.9342334 17.5872639,16.4066001 17.2631641,16.0798334 C17.2615601,16.0782162 17.2599494,16.0766055 17.2583322,16.0750015 L17.2583333,16.075 Z M4.16666645,9.16666742 L4.16666645,9.16666742 C4.16666645,6.40524242 6.40524167,4.16666742 9.16666645,4.16666742 C11.9280917,4.16666742 14.1666664,6.40524242 14.1666664,9.16666742 C14.1666664,11.9280924 11.9280917,14.1666674 9.16666645,14.1666674 L9.16666645,14.1666674 C6.40524145,14.1666674 4.16666645,11.9280924 4.16666645,9.16666742 C4.16666645,9.16666742 4.16666645,9.16666742 4.16666645,9.16666742 L4.16666645,9.16666742 Z" id="Fill" fill="#54585A"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
