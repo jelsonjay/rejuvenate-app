@@ -1,4 +1,3 @@
-
 import './App.css';
 import Header from './components/Header/Index';
 import Hero from './components/Hero/Index'

@@ -143,12 +143,15 @@ a {
 }
 .card h3 {
 	color: var(--mainBlue);
+	font-family: Demi;
+	font-size: 1.1rem;
 }
 .card_items {
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
 	color: var(--mainBlue);
+	font-family: Demi;
 	font-weight: bold;
 }
 .social-icons img {

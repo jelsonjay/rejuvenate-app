@@ -13,7 +13,7 @@ const SectionOne = () => {
     <img src='/images/section_1.png' alt=''/> 
     <div className='card_content'>
     <div className='card_items social-icons'>
-    <span>Beneft</span>
+    <span>Benefits</span>
     <img src='/icons/present.svg' alt=''/> 
     </div>
     <h3>An Example of a Benefits Post</h3>
@@ -28,7 +28,7 @@ const SectionOne = () => {
     <img src='/images/section_2.png' alt=''/> 
     <div className='card_content'>
     <div className='card_items social-icons'>
-    <span>Beneft</span>
+    <span>Business Performance</span>
     <img src='/icons/bag.svg' alt=''/> 
     </div>
     <h3>An Example of a Benefits Post</h3>
@@ -43,7 +43,7 @@ const SectionOne = () => {
     <img src='/images/section_3.png' alt=''/> 
     <div className='card_content'>
     <div className='card_items social-icons'>
-    <span>Beneft</span>
+    <span>Community & Charity</span>
     <img src='/icons/hands.svg' alt=''/> 
     </div>
     <h3>An Example of a Benefits Post</h3>
